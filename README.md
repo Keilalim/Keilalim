@@ -1,14 +1,5 @@
-### Hi there 👋
-
-- 🕖 I’m currently working on Product Owner Project
-- 🥰 I’m currently learning Javascript, Solidity and Go
-- 👯 I’m looking to collaborate whith Solidity Projects
-- 🤔 I’m a Cryptocurious
-- 💬 Ask me about nothing, for while
-- 📫 How to reach me: See above the links 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi Devs👋, Keila Lima on!
+### Wanna nknow more about me? Check below
 <div align="center">
   <a href="https://github.com/keilalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keilalim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -34,7 +25,16 @@ src="https://media.discordapp.net/attachments/639956127056134178/890373478988013
   <a href = "mailto:keilalinkedin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Keilalim/Keilalim/blob/output/github-contribution-grid-snake.svg)
+  
+- 💡 I’m currently working on Product Owner Project
+- 🚀 I’m currently learning Javascript, Solidity and Go
+- 👯 I’m looking to collaborate whith Solidity Projects
+- 💘 I’m a Cryptocurious
+- 💬 Ask me about nothing, for while
+- 📫 How to reach me: See above the links 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
  
 </div>
 

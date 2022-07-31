@@ -1,11 +1,15 @@
 ## Hi Devs👋, Keila Lima on!
-### Wanna know more about me? Check below
-![Avatar](https://github.com/Keilalim/Keilalim/blob/main/ReadyPlayerMe-Avatar.png)
+  ![gif](https://github.com/Keilalim/Keilalim/blob/main/homem%20letra.gif)
+   ![gif](https://github.com/Keilalim/Keilalim/blob/main/Avatar.PNG)
+   
+⚡**GIT STATUS**⚡
+
 <div align="center">
   <a href="https://github.com/keilalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keilalim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keilalim&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Keila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Keila-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,11 +18,11 @@
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"> 
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />          
-   <img align="right" alt="ReadyPlayerMe-Avatar-pic" height="150" style="border-radius:50px;" 
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Keila-pic" height="150" style="border-radius:50px;" 
+  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
-</div>
-  
+ </div>
+   
   ##
  
 <div> 
@@ -28,8 +32,9 @@ src="https://media.discordapp.net/attachments/639956127056134178/890373478988013
   <a href="https://www.linkedin.com/in/keila-de-lima-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/Keilalim/Keilalim/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Keilalim/Keilalim/blob/main/github-contribution-grid-snake.svg) 
   
+  **More about me**
 - 💡 I’m currently working on Product Owner Project
 - 🚀 I’m currently learning Javascript, Solidity and Go
 - 👯 I’m looking to collaborate whith Solidity Projects
@@ -38,7 +43,15 @@ src="https://media.discordapp.net/attachments/639956127056134178/890373478988013
 - 📫 How to reach me: See above the links 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
+
+**Skills**   
+- Communication | ✔️
+- Inglês          ✔️
+- Product         🔰 
+- Project Manager ✔️  
+- Blockchain      🔰 
+- Solidity        🔰 
+- Web3           🌫️ 
 </div>
 
   

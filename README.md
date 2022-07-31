@@ -1,7 +1,5 @@
-## Hi Devs👋, Keila Lima on!
-  ![gif](https://github.com/Keilalim/Keilalim/blob/main/homem%20letra.gif)
-   ![gif](https://github.com/Keilalim/Keilalim/blob/main/Avatar.PNG)
-   
+## Hi Devs👋, Keila Lima on stage!
+    
 ⚡**GIT STATUS**⚡
 
 <div align="center">
@@ -18,8 +16,7 @@
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"> 
   <img align="center" alt="Keila-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />          
-  <img align="right" alt="Keila-pic" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
 
  </div>
    
@@ -53,6 +50,8 @@
 - Solidity        🔰 
 - Web3           🌫️ 
 </div>
+
+ ![gif](https://github.com/Keilalim/Keilalim/blob/main/Bco.PNG) ![gif](https://github.com/Keilalim/Keilalim/blob/main/homem%20letra.gif)
 
   
 

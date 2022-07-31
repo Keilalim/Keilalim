@@ -1,5 +1,5 @@
 ## Hi Devs👋, Keila Lima on!
-### Wanna nknow more about me? Check below
+### Wanna know more about me? Check below
 <div align="center">
   <a href="https://github.com/keilalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keilalim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

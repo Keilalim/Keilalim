@@ -28,8 +28,10 @@
   <a href = "mailto:keilalinkedin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/keila-de-lima-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"></a>
  
   ![Snake animation](https://github.com/Keilalim/Keilalim/blob/main/github-contribution-grid-snake.svg) 
+ 
   
   **More about me**
 - 💡 I’m currently working on Product Owner Project
